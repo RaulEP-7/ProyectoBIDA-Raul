@@ -1,4 +1,4 @@
-# Proyecto sistemas
+# Proyecto Bida - RAG`S
 
 Este repositorio contiene tres proyectos que implementan sistemas RAG (Retrieve and Generate) utilizando modelos de lenguaje y almacenamiento de vectores en diferentes formatos.
 ## Instalación
