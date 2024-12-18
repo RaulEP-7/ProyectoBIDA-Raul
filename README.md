@@ -1,17 +1,20 @@
 # Proyecto sistemas
 
 Este repositorio contiene tres proyectos que implementan sistemas RAG (Retrieve and Generate) utilizando modelos de lenguaje y almacenamiento de vectores en diferentes formatos.
+## 🔧 Instalación
 
-  
+### Clonar o Repositorio
+
+Para comezar, clona este repositorio utilizando o seguinte comando:
+```bash
+git clone git@github.com:RaulEP-7/ProyectoBIDA-Raul.git
+cd ProyectoBIDA-Raul
+```
 
 ## 1. RAG en inglés que crea un Vector Store a partir de los datos de una página web
 
-  
 
 ### Descripción
-
-  
-
 Este proyecto muestra cómo crear un sistema RAG en Python que extrae texto de una página web y lo convierte en un vector store utilizando un modelo de embeddings. El sistema permite realizar consultas sobre el contenido de la página web.
 
   
